@@ -1,0 +1,118 @@
+<html>
+<head>
+<title>UnityPlayerActivity.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: rgb(0,0,0); font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { color: rgb(0,0,0); }
+.s2 { color: rgb(128,128,128); font-style: italic; }
+.s3 { color: rgb(0,128,0); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#C0C0C0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+UnityPlayerActivity.java</FONT>
+</center></TD></TR></TABLE>
+<pre>
+<span class="s0">package </span><span class="s1">com.jastworld.interfaceplugin; 
+ 
+</span><span class="s0">import </span><span class="s1">com.unity3d.player.*; 
+</span><span class="s0">import </span><span class="s1">android.app.Activity; 
+</span><span class="s0">import </span><span class="s1">android.content.Intent; 
+</span><span class="s0">import </span><span class="s1">android.content.res.Configuration; 
+</span><span class="s0">import </span><span class="s1">android.graphics.PixelFormat; 
+</span><span class="s0">import </span><span class="s1">android.os.Bundle; 
+</span><span class="s0">import </span><span class="s1">android.util.Log; 
+</span><span class="s0">import </span><span class="s1">android.view.KeyEvent; 
+</span><span class="s0">import </span><span class="s1">android.view.MotionEvent; 
+</span><span class="s0">import </span><span class="s1">android.view.View; 
+</span><span class="s0">import </span><span class="s1">android.view.Window; 
+</span><span class="s0">import </span><span class="s1">android.view.WindowManager; 
+ 
+</span><span class="s0">public class </span><span class="s1">UnityPlayerActivity </span><span class="s0">extends </span><span class="s1">Activity 
+{ 
+    Controller controller = </span><span class="s0">new </span><span class="s1">Controller(); 
+    String start = controller.getStartPoint(); 
+    String end = controller.getEndPoint(); 
+    </span><span class="s0">protected </span><span class="s1">UnityPlayer mUnityPlayer; </span><span class="s2">// don't change the name of this variable; referenced from native code</span><span class="s1"> 
+ 
+    </span><span class="s2">// Setup activity layout</span><span class="s1"> 
+    @Override </span><span class="s0">protected void </span><span class="s1">onCreate (Bundle savedInstanceState) 
+    { 
+        requestWindowFeature(Window.FEATURE_NO_TITLE); 
+        </span><span class="s0">super</span><span class="s1">.onCreate(savedInstanceState); 
+ 
+        getWindow().setFormat(PixelFormat.RGBX_8888); </span><span class="s2">// &lt;--- This makes xperia play happy</span><span class="s1"> 
+ 
+        mUnityPlayer = </span><span class="s0">new </span><span class="s1">UnityPlayer(</span><span class="s0">this</span><span class="s1">); 
+        setContentView(mUnityPlayer); 
+        mUnityPlayer.requestFocus(); 
+        UnityPlayer.UnitySendMessage(</span><span class="s3">&quot;Player&quot;</span><span class="s1">, </span><span class="s3">&quot;setStartLocationFromAndroidStudio&quot;</span><span class="s1">, start); 
+        UnityPlayer.UnitySendMessage(</span><span class="s3">&quot;Player&quot;</span><span class="s1">, </span><span class="s3">&quot;setEndLocationFromAndroidStudio&quot;</span><span class="s1">, end); 
+    } 
+ 
+    </span><span class="s2">// Quit Unity</span><span class="s1"> 
+    @Override </span><span class="s0">protected void </span><span class="s1">onDestroy () 
+    { 
+        mUnityPlayer.quit(); 
+        </span><span class="s0">super</span><span class="s1">.onDestroy(); 
+    } 
+ 
+    </span><span class="s2">// Pause Unity</span><span class="s1"> 
+    @Override </span><span class="s0">protected void </span><span class="s1">onPause() 
+    { 
+        </span><span class="s0">super</span><span class="s1">.onPause(); 
+        mUnityPlayer.pause(); 
+    } 
+ 
+    </span><span class="s2">// Resume Unity</span><span class="s1"> 
+    @Override </span><span class="s0">protected void </span><span class="s1">onResume() 
+    { 
+        </span><span class="s0">super</span><span class="s1">.onResume(); 
+        mUnityPlayer.resume(); 
+    } 
+ 
+    </span><span class="s2">// This ensures the layout will be correct.</span><span class="s1"> 
+    @Override </span><span class="s0">public void </span><span class="s1">onConfigurationChanged(Configuration newConfig) 
+    { 
+        </span><span class="s0">super</span><span class="s1">.onConfigurationChanged(newConfig); 
+        mUnityPlayer.configurationChanged(newConfig); 
+    } 
+ 
+    </span><span class="s2">// Notify Unity of the focus change.</span><span class="s1"> 
+    @Override </span><span class="s0">public void </span><span class="s1">onWindowFocusChanged(</span><span class="s0">boolean </span><span class="s1">hasFocus) 
+    { 
+        </span><span class="s0">super</span><span class="s1">.onWindowFocusChanged(hasFocus); 
+        mUnityPlayer.windowFocusChanged(hasFocus); 
+    } 
+ 
+    </span><span class="s2">// For some reason the multiple keyevent type is not supported by the ndk.</span><span class="s1"> 
+    </span><span class="s2">// Force event injection by overriding dispatchKeyEvent().</span><span class="s1"> 
+    @Override </span><span class="s0">public boolean </span><span class="s1">dispatchKeyEvent(KeyEvent event) 
+    { 
+        </span><span class="s0">if </span><span class="s1">(event.getAction() == KeyEvent.ACTION_MULTIPLE) 
+            </span><span class="s0">return </span><span class="s1">mUnityPlayer.injectEvent(event); 
+        </span><span class="s0">return super</span><span class="s1">.dispatchKeyEvent(event); 
+    } 
+ 
+    </span><span class="s2">// Pass any events not handled by (unfocused) views straight to UnityPlayer</span><span class="s1"> 
+    @Override </span><span class="s0">public boolean </span><span class="s1">onKeyUp(</span><span class="s0">int </span><span class="s1">keyCode, KeyEvent event)     { </span><span class="s0">return </span><span class="s1">mUnityPlayer.injectEvent(event); } 
+    @Override </span><span class="s0">public boolean </span><span class="s1">onKeyDown(</span><span class="s0">int </span><span class="s1">keyCode, KeyEvent event)   { </span><span class="s0">return </span><span class="s1">mUnityPlayer.injectEvent(event); } 
+    @Override </span><span class="s0">public boolean </span><span class="s1">onTouchEvent(MotionEvent event)          { </span><span class="s0">return </span><span class="s1">mUnityPlayer.injectEvent(event); } 
+    </span><span class="s2">/*API12*/ </span><span class="s0">public boolean </span><span class="s1">onGenericMotionEvent(MotionEvent event)  { </span><span class="s0">return </span><span class="s1">mUnityPlayer.injectEvent(event); } 
+ 
+    </span><span class="s0">public void </span><span class="s1">endScreen(String time, String collisions){ 
+        Intent i = </span><span class="s0">new </span><span class="s1">Intent(getApplicationContext(), RoomSelect.</span><span class="s0">class</span><span class="s1">); 
+ 
+        i.putExtra(</span><span class="s3">&quot;time&quot;</span><span class="s1">,time); 
+        i.putExtra(</span><span class="s3">&quot;collision&quot;</span><span class="s1">,collisions); 
+        startActivity(i); 
+ 
+    } 
+} 
+</span></pre>
+</body>
+</html>

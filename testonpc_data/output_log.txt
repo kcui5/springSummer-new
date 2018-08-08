@@ -1,0 +1,1412 @@
+Mono path[0] = 'C:/Software/Unity3D_5/Project/Integration 3.3/Integration3_1/testonpc_Data/Managed'
+Mono path[1] = 'C:/Software/Unity3D_5/Project/Integration 3.3/Integration3_1/testonpc_Data/Mono'
+Mono config path = 'C:/Software/Unity3D_5/Project/Integration 3.3/Integration3_1/testonpc_Data/Mono/etc'
+PlayerConnection initialized from C:/Software/Unity3D_5/Project/Integration 3.3/Integration3_1/testonpc_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55386
+Multi-casting "[IP] 128.113.137.200 [Port] 55386 [Flags] 2 [Guid] 3376640378 [EditorId] 3414182792 [Version] 1048832 [Id] WindowsPlayer(Rohanian) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [128.113.137.200:55386]
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670MX (ID=0x11a1)
+    Vendor:   NVIDIA
+    VRAM:     3039 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.611 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Software\Unity3D_5\Project\Integration 3.3\Integration3_1\testonpc_Data\Managed\System.dll (this message is harmless)
+Cols number at start: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerMovement:Awake() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\PlayerMovement.cs:25)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/PlayerMovement.cs Line: 25)
+
+JSON file exists.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:25)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 25)
+
+193
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:31)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 31)
+
+193
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:32)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 32)
+
+Creating 0th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 1th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 2th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 3th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 4th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 5th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 6th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 7th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 8th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 9th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 10th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 11th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 12th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 13th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 14th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 15th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 16th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 17th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 18th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 19th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 20th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 21th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 22th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 23th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 24th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 25th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 26th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 27th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 28th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 29th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 30th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 31th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 32th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 33th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 34th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 35th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 36th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 37th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 38th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 39th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 40th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 41th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 42th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 43th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 44th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 45th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 46th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 47th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 48th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 49th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 50th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 51th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 52th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 53th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 54th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 55th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 56th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 57th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 58th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 59th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 60th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 61th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 62th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 63th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 64th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 65th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 66th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 67th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 68th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 69th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 70th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 71th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 72th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 73th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 74th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 75th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 76th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 77th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 78th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 79th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 80th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 81th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 82th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 83th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 84th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 85th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 86th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 87th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 88th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 89th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 90th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 91th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 92th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 93th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 94th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 95th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 96th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 97th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 98th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 99th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 100th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 101th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 102th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 103th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 104th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 105th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 106th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 107th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 108th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 109th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 110th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 111th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 112th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 113th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 114th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 115th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 116th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 117th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 118th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 119th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 120th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 121th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 122th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 123th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 124th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 125th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 126th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 127th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 128th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 129th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 130th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 131th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 132th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 133th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 134th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 135th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 136th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 137th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 138th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 139th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 140th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 141th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 142th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 143th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 144th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 145th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 146th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 147th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 148th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 149th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 150th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 151th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 152th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 153th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 154th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 155th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 156th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 157th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 158th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 159th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 160th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 161th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 162th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 163th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 164th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 165th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 166th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 167th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 168th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 169th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 170th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 171th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 172th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 173th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 174th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 175th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 176th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 177th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 178th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 179th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 180th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 181th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 182th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 183th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 184th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 185th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 186th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 187th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 188th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 189th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 190th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 191th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Creating 192th Room.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CreateFromJSON:Start() (at C:\Software\Unity3D 5\Project\CitySight_SimpleProject\CitySight_SimpleProject\Assets\Scripts\CreateFromJSON.cs:38)
+ 
+(Filename: C:/Software/Unity3D 5/Project/CitySight_SimpleProject/CitySight_SimpleProject/Assets/Scripts/CreateFromJSON.cs Line: 38)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bc4 -> priority: 1 
+  Thread -> id: 3ef4 -> priority: 1 

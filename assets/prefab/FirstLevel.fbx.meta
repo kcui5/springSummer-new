@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 4b6378ef30e2dc047ada9f1a8e3f380b
+timeCreated: 1457322821
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ground
+    100004: outline
+    100006: room_base
+    100008: room_bathroom1
+    100010: room_black1
+    100012: room_black2
+    100014: room_black3
+    100016: room_black4
+    100018: room_elevator1
+    100020: room_elevator2
+    100022: room_grandhall
+    100024: room_stair1
+    100026: room_stair2
+    100028: room_stair3
+    100030: room_unknown
+    100032: rooo_redfield
+    100034: wall1
+    100036: wall2
+    100038: wall_base
+    400000: //RootNode
+    400002: ground
+    400004: outline
+    400006: room_base
+    400008: room_bathroom1
+    400010: room_black1
+    400012: room_black2
+    400014: room_black3
+    400016: room_black4
+    400018: room_elevator1
+    400020: room_elevator2
+    400022: room_grandhall
+    400024: room_stair1
+    400026: room_stair2
+    400028: room_stair3
+    400030: room_unknown
+    400032: rooo_redfield
+    400034: wall1
+    400036: wall2
+    400038: wall_base
+    2300000: ground
+    2300002: outline
+    2300004: room_base
+    2300006: room_bathroom1
+    2300008: room_black1
+    2300010: room_black2
+    2300012: room_black3
+    2300014: room_black4
+    2300016: room_elevator1
+    2300018: room_elevator2
+    2300020: room_grandhall
+    2300022: room_stair1
+    2300024: room_stair2
+    2300026: room_stair3
+    2300028: room_unknown
+    2300030: rooo_redfield
+    2300032: wall1
+    2300034: wall2
+    2300036: wall_base
+    3300000: ground
+    3300002: outline
+    3300004: room_base
+    3300006: room_bathroom1
+    3300008: room_black1
+    3300010: room_black2
+    3300012: room_black3
+    3300014: room_black4
+    3300016: room_elevator1
+    3300018: room_elevator2
+    3300020: room_grandhall
+    3300022: room_stair1
+    3300024: room_stair2
+    3300026: room_stair3
+    3300028: room_unknown
+    3300030: rooo_redfield
+    3300032: wall1
+    3300034: wall2
+    3300036: wall_base
+    4300000: outline
+    4300002: wall2
+    4300004: room_unknown
+    4300006: room_black4
+    4300008: room_stair3
+    4300010: room_stair2
+    4300012: room_black3
+    4300014: room_elevator2
+    4300016: room_bathroom1
+    4300018: wall1
+    4300020: room_stair1
+    4300022: room_grandhall
+    4300024: room_black2
+    4300026: room_black1
+    4300028: room_elevator1
+    4300030: rooo_redfield
+    4300032: room_base
+    4300034: wall_base
+    4300036: ground
+    6400000: ground
+    6400002: outline
+    6400004: room_base
+    6400006: room_bathroom1
+    6400008: room_black1
+    6400010: room_black2
+    6400012: room_black3
+    6400014: room_black4
+    6400016: room_elevator1
+    6400018: room_elevator2
+    6400020: room_grandhall
+    6400022: room_stair1
+    6400024: room_stair2
+    6400026: room_stair3
+    6400028: room_unknown
+    6400030: rooo_redfield
+    6400032: wall1
+    6400034: wall2
+    6400036: wall_base
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
